@@ -1,0 +1,10 @@
+.memory > .guesses {
+    margin: 0.2em;
+    padding: 0;
+
+    width: calc(100% - 0.4em);
+
+    font-size: 2em;
+    font-family: monospace;
+    text-align: right;
+}

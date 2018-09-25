@@ -1,0 +1,16 @@
+.highScoreInput {
+    margin: 0.2em;
+
+    width: calc(100% - 0.4em);
+
+    font-size: 1em;
+}
+
+.highScoreInput input {
+    margin-bottom: 0.2em;
+
+    width: calc(100% - 0.4em);
+    display: block;
+
+    font-family: monospace;
+}
